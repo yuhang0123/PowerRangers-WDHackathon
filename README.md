@@ -1,7 +1,7 @@
 # Western Digital x MUMTEC-36H-Hackathon 2024-
-# [Team Name] – MUMTEC Hackathon 2024 Submission
+# [PowerRangers] – MUMTEC Hackathon 2024 Submission
 
-## Project Title: [Insert Project Name]
+## Project Title: [Application Optimization]
 
 ### Table of Contents
 1. [Project Overview](#project-overview)
@@ -18,8 +18,13 @@
 ### Project Overview
 [Provide a brief description of your project. Include the problem you are solving, your approach, and the impact of your solution.]
 
-- **Problem Statement**: [Briefly describe the problem or challenge your project addresses.]
-- **Proposed Solution**: [Describe your AI-powered solution, highlighting its key features and benefits.]
+- **Problem Statement**: [Firmware plays a crucial role in the functioning of hardware devices, providing the low-level
+control required for operation. It also involves time and resources consuming processes. However,
+traditional firmware development often faces challenges related to performance optimization,
+resource management and adaptability to new hardware. Leveraging AI can revolutionise firmware
+development by automating complex tasks and enhancing performance.]
+- **Proposed Solution**: [ we using AI to ensure that we  maximize CPU power while also extending battery life. We can monitor and analyze the resource usage of small applications to showcase their CPU and RAM utilization. When a larger application is launched, the AI dynamically reallocates resources, shifting power from less demanding tasks to optimize performance.
+]
 
 ---
 
@@ -35,22 +40,22 @@
 ---
 
 ### Installation and Setup
-[Describe how to use install and setup your project. ]
+[No set up]
 
 --- 
 
 ### Usage
-[Describe how to use your application. Include example commands, expected inputs, and outputs.]
+[Input and expected output]
 
 --- 
 
 ### Features
-[Highlight the key features of your project.]
+[It minimizes waste by ensuring that each task receives the appropriate amount of RAM without exceeding the total available, thereby enhancing overall system efficiency and performance.]
 
 --- 
 
 ### Architecture
-[Provide an explanation of your system architecture.]
+[We use python pandas and machine learning model to learn from the data set that we fit into the model, from the model that we train we are able to adapt new data given into the system.]
 
 --- 
 
